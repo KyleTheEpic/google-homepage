@@ -1,5 +1,5 @@
 .navbar {
-    
+
 }
 #logo {
     height: 300px;
@@ -9,8 +9,20 @@
 }
 
 #search-bar {
-    margin-left: 50px;
+    margin-left: 350px;
 }
 .footer {
-    display: inline;
+    background-color: rgb(242, 242, 242);
+    position: fixed;
+    bottom: 0;
+}
+a {
+    color: black;
+    text-decoration-line: none;
+}
+#left-footer {
+left: 0;
+}
+#right-footer {
+    right: 143;
 }
