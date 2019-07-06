@@ -18,14 +18,14 @@
     padding-top: 20px;
     padding-right: 850px;
     border-top: 1px solid #e4e4e4;
+    border-left: 1px solid #e4e4e4;
 }
 a {
     color: black;
     text-decoration-line: none;
 }
-#left-footer {
-left: 0;
+.right-footer {
 }
-#right-footer {
-    right: 143;
+.left-footer {
+
 }
