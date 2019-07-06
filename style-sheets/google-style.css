@@ -1,9 +1,16 @@
+.navbar {
+    
+}
 #logo {
     height: 300px;
     width: 350px;
     margin-left: 450px;
     
-};
+}
+
 #search-bar {
-    height: 15px;
-};
+    margin-left: 50px;
+}
+.footer {
+    display: inline;
+}
