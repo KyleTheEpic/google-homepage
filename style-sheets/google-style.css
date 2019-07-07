@@ -5,7 +5,7 @@
     margin-left: 20px;
 }
 #gmail-link {
-    margin-left: 850px;
+    margin-left: 900px;
 }
 #images-link {
     margin-left: 20px;
@@ -24,7 +24,6 @@
     height: 300px;
     width: 350px;
     margin-left: 450px;
-    
 }
 
 #search-bar {
@@ -33,9 +32,10 @@
 .footer {
     background-color: rgb(242, 242, 242);
     position: fixed;
+    float: left;
     bottom: 0;
     padding-top: 20px;
-    padding-right: 900px;
+    padding-right: 30px;
     border-top: 1px solid #e4e4e4;
     border-left: 1px solid #e4e4e4;
 }
@@ -53,7 +53,7 @@ a {
     margin-left: 20px;
 }
 #privacy-link {
-    margin-left: 850px;
+    margin-left: 750px;
 }
 #terms-link {
     margin-left: 20px;
