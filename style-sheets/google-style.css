@@ -1,5 +1,24 @@
-.navbar {
-
+#about-link {
+    margin-left: 20px;
+}
+#store-link {
+    margin-left: 20px;
+}
+#gmail-link {
+    margin-left: 850px;
+}
+#images-link {
+    margin-left: 20px;
+}
+#grid {
+    height: 20px;
+    width: 20px;
+    margin-left: 20px;
+}
+#sign-in-link {
+    height: 35px;
+    width: 75px;
+    margin-left: 20px;
 }
 #logo {
     height: 300px;
@@ -16,7 +35,7 @@
     position: fixed;
     bottom: 0;
     padding-top: 20px;
-    padding-right: 850px;
+    padding-right: 900px;
     border-top: 1px solid #e4e4e4;
     border-left: 1px solid #e4e4e4;
 }
@@ -24,8 +43,21 @@ a {
     color: black;
     text-decoration-line: none;
 }
-.right-footer {
+#advertising-link {
+    margin-left: 20px;
 }
-.left-footer {
-
+#business-link {
+    margin-left: 20px;
+}
+#how-search-works-link {
+    margin-left: 20px;
+}
+#privacy-link {
+    margin-left: 850px;
+}
+#terms-link {
+    margin-left: 20px;
+}
+#settings-link {
+    margin-left: 20px;
 }
